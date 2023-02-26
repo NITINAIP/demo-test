@@ -2,7 +2,7 @@
 # global utility
 NODE JS 14.20
 npm i -g yarn  
-# start project 
+# install package  project 
 npm i or year install 
 
 # run project 
